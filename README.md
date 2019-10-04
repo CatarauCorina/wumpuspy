@@ -1,0 +1,2 @@
+# wumpuspy
+MSc wumpus simulator 
